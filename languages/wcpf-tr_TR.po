@@ -1,0 +1,935 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WooCommerce Product Filters\n"
+"POT-Creation-Date: 2018-12-11 18:58+0200\n"
+"PO-Revision-Date: 2018-12-11 19:08+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-product-filters.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-ajax.php:27 includes/admin/class-ajax.php:103
+msgid "User does not have access to project change"
+msgstr ""
+
+#: includes/admin/class-ajax.php:40
+msgid "Structure of project is incorrect"
+msgstr ""
+
+#: includes/admin/class-ajax.php:53 includes/project/class-project.php:289
+msgid "An error occurred while saving project"
+msgstr ""
+
+#: includes/admin/class-ajax.php:116
+msgid "Controls is incorrect"
+msgstr ""
+
+#: includes/admin/class-tools.php:15
+msgid "Product Filters cache"
+msgstr ""
+
+#: includes/admin/class-tools.php:16
+msgid "Clear cache"
+msgstr ""
+
+#: includes/admin/class-tools.php:17
+msgid "Clear cache results of heavy queries to database (product counts query)"
+msgstr ""
+
+#: includes/admin/class-tools.php:32
+msgid "Removed entire cache for \"WooCommerce Product Filters\" plugin"
+msgstr ""
+
+#: includes/admin/class-wc-settings.php:19
+#: includes/admin/class-wc-settings.php:50
+#: includes/admin/page/class-loader.php:148
+#: includes/project/class-editor-component.php:27
+#: includes/project/class-post-type.php:39
+#: includes/widgets/class-filter-notes-widget.php:36
+#: includes/widgets/class-filter-widget.php:35
+#: includes/widgets/class-filter-widget.php:41
+msgid "Filters"
+msgstr ""
+
+#: includes/admin/class-wc-settings.php:34 includes/field/class-common.php:62
+#: includes/field/class-common.php:100
+#: includes/widgets/class-filter-notes-widget.php:25
+#: includes/widgets/class-filter-widget.php:25
+msgid "Not selected"
+msgstr ""
+
+#: includes/admin/class-wc-settings.php:56
+msgid "Product archive filter"
+msgstr ""
+
+#: includes/admin/class-wc-settings.php:60
+msgid ""
+"Select product archive filter. It will modify list of products depending on "
+"options selected."
+msgstr ""
+
+#: includes/admin/editor/control/class-repeater-control.php:60
+msgid "Add Item"
+msgstr ""
+
+#: includes/admin/editor/control/class-switch-control.php:17
+#: includes/field/color-list/class-editor-component.php:83
+#: includes/field/editor/class-abstract-list-component.php:263
+#: includes/field/editor/class-abstract-list-component.php:289
+#: includes/field/editor/class-abstract-list-component.php:341
+#: includes/field/editor/class-abstract-list-component.php:379
+#: includes/field/editor/class-abstract-list-component.php:419
+#: includes/field/editor/class-abstract-list-component.php:489
+#: includes/field/price-slider/class-editor-component.php:78
+#: includes/field/price-slider/class-editor-component.php:91
+#: includes/field/price-slider/class-editor-component.php:137
+#: includes/field/price-slider/class-editor-component.php:150
+#: includes/field/text-list/class-editor-component.php:37
+#: includes/layout/simple-box/class-editor-component.php:26
+#: includes/project/class-editor-component.php:64
+#: includes/project/class-editor-component.php:84
+msgid "On"
+msgstr ""
+
+#: includes/admin/editor/control/class-switch-control.php:26
+#: includes/field/color-list/class-editor-component.php:87
+#: includes/field/editor/class-abstract-list-component.php:267
+#: includes/field/editor/class-abstract-list-component.php:293
+#: includes/field/editor/class-abstract-list-component.php:345
+#: includes/field/editor/class-abstract-list-component.php:383
+#: includes/field/editor/class-abstract-list-component.php:423
+#: includes/field/editor/class-abstract-list-component.php:493
+#: includes/field/price-slider/class-editor-component.php:82
+#: includes/field/price-slider/class-editor-component.php:95
+#: includes/field/price-slider/class-editor-component.php:141
+#: includes/field/price-slider/class-editor-component.php:154
+#: includes/field/text-list/class-editor-component.php:41
+#: includes/layout/simple-box/class-editor-component.php:30
+#: includes/project/class-editor-component.php:68
+#: includes/project/class-editor-component.php:88
+msgid "Off"
+msgstr ""
+
+#: includes/admin/editor/element-panel/class-panel.php:21
+#: includes/admin/views/editor.php:47
+msgid "Add Element"
+msgstr ""
+
+#: includes/admin/page/class-list-page.php:41
+#: includes/field/button/class-editor-component.php:19
+#: includes/field/button/class-editor-component.php:20
+#: includes/field/editor/class-abstract-list-component.php:27
+#: includes/field/editor/class-abstract-list-component.php:28
+#: includes/field/price-slider/class-editor-component.php:16
+#: includes/field/price-slider/class-editor-component.php:17
+#: includes/layout/simple-box/class-editor-component.php:18
+#: includes/layout/simple-box/class-editor-component.php:19
+#: includes/project/class-editor-component.php:25
+#: includes/project/class-editor-component.php:26
+#: includes/widgets/class-filter-widget.php:36
+msgid "Title"
+msgstr ""
+
+#: includes/admin/page/class-list-page.php:42
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/page/class-list-page.php:43
+msgid "Author"
+msgstr ""
+
+#: includes/admin/page/class-list-page.php:44
+msgid "Date"
+msgstr ""
+
+#: includes/admin/page/class-loader.php:115
+msgid "Save options on panel \"--panel-title\"?"
+msgstr ""
+
+#: includes/admin/page/class-loader.php:118
+msgid "Are you sure you want to remove element?"
+msgstr ""
+
+#: includes/admin/page/class-loader.php:121
+msgid "Allowed letters, numbers and symbols \"-\", \"_\""
+msgstr ""
+
+#: includes/admin/page/class-loader.php:122
+msgid "Key must be unique for project"
+msgstr ""
+
+#: includes/admin/views/control/check-list.php:9
+#: includes/admin/views/control/color-picker.php:9
+#: includes/admin/views/control/image.php:9
+#: includes/admin/views/control/radio-list.php:9
+#: includes/admin/views/control/repeater.php:9
+#: includes/admin/views/control/select.php:9
+#: includes/admin/views/control/switch.php:9
+#: includes/admin/views/control/text-size.php:9
+#: includes/admin/views/control/text.php:9
+msgid "required"
+msgstr ""
+
+#: includes/admin/views/control/check-list.php:34
+msgid "Empty options list"
+msgstr ""
+
+#: includes/admin/views/control/image.php:26
+msgid "No image selected"
+msgstr ""
+
+#: includes/admin/views/control/image.php:28
+msgid "Add Image"
+msgstr ""
+
+#: includes/admin/views/editor.php:12
+msgid "Edit Project"
+msgstr ""
+
+#: includes/admin/views/editor.php:28
+msgid "Elements"
+msgstr ""
+
+#: includes/admin/views/editor.php:41
+msgid "Project does not have elements"
+msgstr ""
+
+#: includes/admin/views/editor.php:46
+msgid "Save"
+msgstr ""
+
+#: includes/admin/views/panel/parts/bottom-navigation.php:2
+#: includes/class-activator.php:172
+#: includes/field/button/class-editor-component.php:28
+#: includes/field/class-common.php:190
+msgid "Reset"
+msgstr ""
+
+#: includes/admin/views/panel/parts/bottom-navigation.php:3
+msgid "Apply"
+msgstr ""
+
+#: includes/admin/views/panel/parts/header-navigation.php:9
+#: includes/project/class-editor-component.php:16
+#: includes/project/class-registration.php:15
+msgid "Project"
+msgstr ""
+
+#: includes/admin/views/projection/columns.php:11
+msgid "Add column"
+msgstr ""
+
+#: includes/admin/views/projection/columns.php:14
+#: includes/admin/views/projection/field.php:14
+#: includes/admin/views/projection/field.php:26
+#: includes/admin/views/projection/simple-box.php:15
+#: includes/layout/class-common.php:20
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/views/projection/field.php:11
+#: includes/admin/views/projection/simple-box.php:12
+#: includes/layout/class-common.php:21
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/views/projection/field.php:18
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/views/projection/field.php:23
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-activator.php:60
+msgid "WooCommerce Product Filter Installed"
+msgstr ""
+
+#: includes/class-activator.php:60
+msgid "Now you're ready to edit filters"
+msgstr ""
+
+#: includes/class-activator.php:63
+msgid "Edit Filter"
+msgstr ""
+
+#: includes/class-activator.php:63
+msgid "Setting"
+msgstr ""
+
+#: includes/class-activator.php:72
+msgid "Default filters"
+msgstr ""
+
+#: includes/class-activator.php:100
+msgid "Categories"
+msgstr ""
+
+#: includes/class-activator.php:126
+msgid "Tags"
+msgstr ""
+
+#: includes/class-activator.php:152 includes/field/class-common.php:182
+msgid "Price"
+msgstr "Fiyat"
+
+#: includes/class-query-helper.php:101
+msgid "Invalid taxonomy."
+msgstr ""
+
+#: includes/field/box-list/class-editor-component.php:20
+#: includes/field/class-common.php:35 includes/field/class-common.php:169
+msgid "Box List"
+msgstr ""
+
+#: includes/field/box-list/class-editor-component.php:30
+msgid "Box size"
+msgstr ""
+
+#: includes/field/box-list/class-editor-component.php:31
+msgid "size"
+msgstr ""
+
+#: includes/field/box-list/class-editor-component.php:32
+msgid "Height and width of box item"
+msgstr ""
+
+#: includes/field/button/class-editor-component.php:14
+#: includes/field/button/class-editor-component.php:44
+#: includes/field/class-common.php:71 includes/field/class-common.php:187
+msgid "Button"
+msgstr ""
+
+#: includes/field/button/class-editor-component.php:25
+msgid "Action"
+msgstr ""
+
+#: includes/field/button/class-editor-component.php:27
+#: includes/project/class-post-type.php:40
+msgid "Filter"
+msgstr ""
+
+#: includes/field/button/class-editor-component.php:33
+#: includes/field/editor/class-abstract-list-component.php:274
+#: includes/field/price-slider/class-editor-component.php:130
+#: includes/layout/simple-box/class-editor-component.php:53
+msgid "CSS Class"
+msgstr ""
+
+#: includes/field/button/class-editor-component.php:34
+#: includes/field/editor/class-abstract-list-component.php:275
+#: includes/field/price-slider/class-editor-component.php:131
+#: includes/layout/simple-box/class-editor-component.php:54
+msgid "class-name"
+msgstr ""
+
+#: includes/field/check-box-list/class-editor-component.php:20
+msgid "CheckBox"
+msgstr ""
+
+#: includes/field/class-common.php:48
+msgid "Checkbox"
+msgstr ""
+
+#: includes/field/class-common.php:58
+msgid "Drop Down"
+msgstr ""
+
+#: includes/field/class-common.php:84
+#: includes/field/color-list/class-editor-component.php:36
+msgid "Colors"
+msgstr ""
+
+#: includes/field/class-common.php:96
+#: includes/field/radio-list/class-editor-component.php:20
+msgid "Radio"
+msgstr ""
+
+#: includes/field/class-common.php:109 includes/field/class-common.php:174
+#: includes/field/text-list/class-editor-component.php:22
+msgid "Text List"
+msgstr ""
+
+#: includes/field/class-common.php:122
+msgid "Price slider"
+msgstr ""
+
+#: includes/field/class-common.php:144
+msgid "Field"
+msgstr ""
+
+#: includes/field/class-common.php:149
+msgid "CheckBox List"
+msgstr ""
+
+#: includes/field/class-common.php:154
+msgid "Radio List"
+msgstr ""
+
+#: includes/field/class-common.php:159
+msgid "DropDown List"
+msgstr ""
+
+#: includes/field/class-common.php:164
+#: includes/field/color-list/class-editor-component.php:20
+msgid "Color List"
+msgstr ""
+
+#: includes/field/class-common.php:179
+#: includes/field/price-slider/class-editor-component.php:163
+#: includes/field/price-slider/class-editor-component.php:181
+msgid "Price Slider"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:40
+msgid "Type"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:42
+#: includes/field/color-list/class-editor-component.php:62
+msgid "Color"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:43
+#: includes/field/color-list/class-editor-component.php:50
+msgid "Image"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:75
+msgid "Value"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:81
+msgid "Display border"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:94
+msgid "Border color"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:105
+msgid "Marker style"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:107
+msgid "Light"
+msgstr ""
+
+#: includes/field/color-list/class-editor-component.php:108
+msgid "Dark"
+msgstr ""
+
+#: includes/field/drop-down-list/class-editor-component.php:19
+msgid "DropDown"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:22
+#: includes/field/price-slider/class-editor-component.php:166
+#: includes/project/class-editor-component.php:20
+msgid "General"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:33
+#: includes/field/price-slider/class-editor-component.php:31
+msgid "URL key"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:34
+#: includes/field/price-slider/class-editor-component.php:32
+#: includes/field/price-slider/class-editor-component.php:46
+#: includes/field/price-slider/class-editor-component.php:60
+msgid "option-key"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:35
+msgid ""
+"The “URL key” is the URL-friendly version of the title. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:40
+msgid "Source of items"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:41
+msgid ""
+"Select source of items for a list, that will be using to filter products"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:43
+#: includes/field/editor/class-abstract-list-component.php:52
+msgid "Attribute"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:44
+#: includes/field/editor/class-abstract-list-component.php:68
+msgid "Category"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:45
+msgid "Tag"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:46
+#: includes/field/editor/class-abstract-list-component.php:85
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:54
+msgid "Choose one of the attributes created in “Products > Attributes”"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:70
+msgid "Choose one of the categories created in “Products > Categories”"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:87
+msgid ""
+"The “Taxonomy” is a grouping mechanism for posts. For example, \"product tags"
+"\" and \"product attributes\" are also taxonomies"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:101
+#: includes/field/editor/class-abstract-list-component.php:121
+msgid "Display"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:103
+#: includes/field/editor/class-abstract-list-component.php:123
+msgid "All"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:104
+#: includes/field/editor/class-abstract-list-component.php:125
+msgid "Only Selected"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:105
+#: includes/field/editor/class-abstract-list-component.php:126
+msgid "Except Selected"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:124
+msgid "Only Parent"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:142
+msgid "Select items"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:143
+msgid "Only these items will be displayed in filter"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:188
+msgid "Exclude items"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:189
+msgid "These items will not be displayed in filter"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:234
+msgid "URL value format"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:236
+msgid "ID"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:237
+msgid "Slug"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:257
+#: includes/field/price-slider/class-editor-component.php:170
+msgid "Visual"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:261
+#: includes/field/price-slider/class-editor-component.php:76
+msgid "Display title"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:287
+msgid "Multi select"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:319
+msgid "Query type"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:320
+msgid ""
+"Type of query that allows you to apply multiple filters. “And” satisfy both "
+"conditions. “Or” satisfy at least one of the conditions"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:322
+msgid "And"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:323
+msgid "Or"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:338
+msgid "Display hierarchical"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:339
+msgid "Switch to display items as a tree or a list"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:377
+msgid "Show reset item"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:395
+msgid "Title reset item"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:396
+#: includes/field/editor/class-abstract-list-component.php:397
+msgid "None"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:416
+#: includes/field/price-slider/class-editor-component.php:89
+#: includes/layout/simple-box/class-editor-component.php:24
+msgid "Display toggle content"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:417
+msgid "Display the toggle to hide content"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:442
+#: includes/field/price-slider/class-editor-component.php:109
+#: includes/layout/simple-box/class-editor-component.php:37
+msgid "Default toggle state"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:443
+msgid "Default state (show/hide)"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:445
+#: includes/field/price-slider/class-editor-component.php:111
+#: includes/layout/simple-box/class-editor-component.php:39
+msgid "Show content"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:446
+#: includes/field/price-slider/class-editor-component.php:112
+#: includes/layout/simple-box/class-editor-component.php:40
+msgid "Hide content"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:470
+msgid "Action for empty items"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:471
+msgid "Actions with filter items when no available products"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:473
+#: includes/project/class-editor-component.php:185
+msgid "No action"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:474
+msgid "Hide"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:475
+msgid "Mark as disabled"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:486
+msgid "Display product counts"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:487
+msgid "Show/hide product counts in items"
+msgstr ""
+
+#: includes/field/editor/class-abstract-list-component.php:540
+msgid "All categories"
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:22
+msgid "URL format"
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:24
+msgid "Parameters through a dash"
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:25
+msgid "Two parameters"
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:33
+msgid ""
+"The “URL key” is the URL-friendly version of the title. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:45
+msgid "URL key for minimum price"
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:47
+msgid ""
+"The “URL key for minimum price” is the URL-friendly version of “minimum "
+"price”. It is usually all lowercase and contains only letters, numbers, and "
+"hyphens."
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:59
+msgid "URL key for maximum price"
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:61
+msgid ""
+"The “URL key for maximum price” is the URL-friendly version of “maximum "
+"price”. It is usually all lowercase and contains only letters, numbers, and "
+"hyphens."
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:135
+msgid "Display max and min inputs"
+msgstr ""
+
+#: includes/field/price-slider/class-editor-component.php:148
+msgid "Display price label"
+msgstr ""
+
+#: includes/field/text-list/class-editor-component.php:34
+msgid "Inline style"
+msgstr ""
+
+#: includes/field/text-list/class-editor-component.php:35
+msgid "Switch to show items inline or one item per line"
+msgstr ""
+
+#: includes/integration/class-polylang.php:32
+msgid "Polylang"
+msgstr ""
+
+#: includes/layout/class-common.php:19
+#: includes/layout/columns/class-editor-component.php:15
+msgid "Column"
+msgstr ""
+
+#: includes/layout/class-common.php:32 includes/layout/class-common.php:72
+#: includes/layout/simple-box/class-editor-component.php:13
+#: includes/layout/simple-box/class-editor-component.php:64
+msgid "Simple Box"
+msgstr ""
+
+#: includes/layout/class-common.php:46 includes/layout/class-common.php:77
+#: includes/layout/columns/class-editor-component.php:36
+msgid "Columns"
+msgstr ""
+
+#: includes/layout/class-common.php:67
+msgid "Layout"
+msgstr ""
+
+#: includes/layout/columns/class-editor-component.php:19
+msgid "Width"
+msgstr ""
+
+#: includes/layout/columns/class-editor-component.php:20
+msgid "width"
+msgstr ""
+
+#: includes/project/class-editor-component.php:32
+msgid "Filtering starts"
+msgstr ""
+
+#: includes/project/class-editor-component.php:33
+msgid ""
+"Apply filters to product immediately when you change options or clicking on "
+"the \"send\" button"
+msgstr ""
+
+#: includes/project/class-editor-component.php:35
+msgid "Automatically"
+msgstr ""
+
+#: includes/project/class-editor-component.php:36
+msgid "When on click send button"
+msgstr ""
+
+#: includes/project/class-editor-component.php:43
+msgid "Which components to use"
+msgstr ""
+
+#: includes/project/class-editor-component.php:44
+msgid "Content of components will be updated when filtering"
+msgstr ""
+
+#: includes/project/class-editor-component.php:46
+msgid "Pagination"
+msgstr ""
+
+#: includes/project/class-editor-component.php:47
+msgid "Sorting"
+msgstr ""
+
+#: includes/project/class-editor-component.php:48
+msgid "Results count"
+msgstr ""
+
+#: includes/project/class-editor-component.php:49
+msgid "Page title"
+msgstr ""
+
+#: includes/project/class-editor-component.php:50
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/project/class-editor-component.php:62
+msgid "Pagination ajax"
+msgstr ""
+
+#: includes/project/class-editor-component.php:82
+msgid "Sorting ajax"
+msgstr ""
+
+#: includes/project/class-editor-component.php:103
+msgid "Selectors"
+msgstr ""
+
+#: includes/project/class-editor-component.php:107
+msgid "Products container selector"
+msgstr ""
+
+#: includes/project/class-editor-component.php:113
+msgid "Pagination selector"
+msgstr ""
+
+#: includes/project/class-editor-component.php:126
+msgid "Result count selector"
+msgstr ""
+
+#: includes/project/class-editor-component.php:139
+msgid "Sorting selector"
+msgstr ""
+
+#: includes/project/class-editor-component.php:152
+msgid "Page title selector"
+msgstr ""
+
+#: includes/project/class-editor-component.php:165
+msgid "Breadcrumb selector"
+msgstr ""
+
+#: includes/project/class-editor-component.php:179
+msgid "Advanced"
+msgstr ""
+
+#: includes/project/class-editor-component.php:183
+msgid "Out of stock products"
+msgstr ""
+
+#: includes/project/class-editor-component.php:186
+msgid "Hide if active options"
+msgstr ""
+
+#: includes/project/class-post-type.php:49
+msgid "Filter Item"
+msgstr ""
+
+#: includes/project/class-project.php:197
+msgid "Error saving post"
+msgstr ""
+
+#: includes/project/class-project.php:217
+msgid "Error inserting post"
+msgstr ""
+
+#: includes/project/class-project.php:229
+#: includes/project/class-project.php:232
+msgid "Error deleting post"
+msgstr ""
+
+#: includes/project/class-project.php:241
+#: includes/project/class-project.php:244
+msgid "Error updating post"
+msgstr ""
+
+#: includes/widgets/class-filter-notes-widget.php:9
+msgid ""
+"This widget displays a list of the selected options in the filter. You can "
+"also quickly remove the required option by clicking on cross button."
+msgstr ""
+
+#: includes/widgets/class-filter-notes-widget.php:13
+msgid "Notes for Product Filters"
+msgstr ""
+
+#: includes/widgets/class-filter-widget.php:9
+msgid ""
+"This widget displays a form with elements that you created in the project. "
+"When interacting with options, products are filtering."
+msgstr ""
+
+#: includes/widgets/class-filter-widget.php:13
+msgid "Product Filters"
+msgstr ""
+
+#: includes/widgets/class-filter-widget.php:47
+msgid "Display widget title?"
+msgstr ""
+
+#: templates/field/price-slider.php:57
+msgid "Min price"
+msgstr ""
+
+#: templates/field/price-slider.php:64
+msgid "Max price"
+msgstr ""
+
+#: templates/field/price-slider.php:67
+msgid "Price:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Product Filters"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://woocommerce.com/products/product-filters/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a tool to create product filters that make the process of finding "
+"products in your store simple and fast"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooCommerce"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://woocommerce.com/"
+msgstr ""

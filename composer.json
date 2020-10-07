@@ -1,0 +1,19 @@
+{
+    "name": "chantonl/woocommerce-product-filters",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/chantonl/woocommerce-product-filters",
+    "authors": [
+        {
+            "name": "Nexter",
+            "homepage": "http://woocommerce.com/"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.6"
+    }
+}
